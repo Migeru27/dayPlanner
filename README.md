@@ -1,5 +1,5 @@
 # dayPlanner
-a calendar meant to help you orangize yourself and be more productive
+a planner meant to help you orangize yourself and be more productive
 
 ## About
 
@@ -22,12 +22,12 @@ definitely be useful for other people as well.
 
 ## Screenshots 
 
-![Empty Schedule](./assets/images/Screenshot%202023-02-01%20131746.png)
+![Empty Schedule](./assets/images/Screenshot%202023-02-01%20at%2013-40-50%20Day%20Planner.png)
 
-![Filled schedule](./assets/images/Screen%20Shot%202022-11-24%20at%2010.42.16%20AM.png)
+![Filled schedule](./assets/images/Screenshot%202023-02-01%20133212.png)
 
 ![ Storage](./assets/images/Screenshot%202023-02-01%20131608.png)
 
 ## Links 
 
-[Deployed Page]()
+[Deployed Page](https://migeru27.github.io/dayPlanner/)
