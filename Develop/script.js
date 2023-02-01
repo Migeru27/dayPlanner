@@ -46,7 +46,7 @@ $(function currentTime(){
 $(".saveBtn").on("click", function () {
   let events = $(this).siblings(".description").val();
   let hour = $(this).parents().attr("id");
-  localStorage.setItem(events, hour);
+  localStorage.setItem(events,hour);
 });
 
 
